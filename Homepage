@@ -1,7 +1,14 @@
-<!doctype>
+<!doctype HTML>
   <head>
     <title>Fur-Tography</title>
+    <style>
+      body {
+        background-color: #d6c691ff;
+        color: #7f6001;
+        font-family: Caveat;
+      }
+    </style>
   </head>
-  <body style=background-color:blanchedalmond>
+  <body>
     <img src=>
   </body>
